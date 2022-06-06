@@ -2,7 +2,7 @@
     "name": "tictactoe",
     "version": "1.0.0",
     "description": "Simple Tic Tac Toe module to play with ease!",
-    "main": "module.js",
+    "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -16,5 +16,8 @@
         "fun"
     ],
     "author": "Makashi",
-    "license": "BSD-3-Clause"
+    "license": "MIT",
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
 }
