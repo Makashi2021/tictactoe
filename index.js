@@ -145,5 +145,3 @@ function Start() {
     winner = null;
     Main();
 }
-
-Start();
