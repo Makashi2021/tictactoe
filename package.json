@@ -1,5 +1,5 @@
 {
-    "name": "tictactoe",
+    "name": "crazytictactoe",
     "version": "1.0.0",
     "description": "Simple Tic Tac Toe module to play with ease!",
     "main": "index.js",
@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "github.com/Makashi2021/tictactoe"
+        "url": "github.com/MakashiDev/tictactoe"
     },
     "keywords": [
         "tictactoe",
         "game",
         "fun"
     ],
-    "author": "Makashi",
+    "author": "makashi",
     "license": "MIT",
     "dependencies": {
         "prompt-sync": "^4.2.0"
