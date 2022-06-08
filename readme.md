@@ -5,8 +5,8 @@
 To install with GitHub:
 
 	npm i github:MakashiDev/tictactoe
-Will come out on npm registry soon!
-
+**HELP**
+	I can't figure how to publish it on npm, i keep on getting error `error 403 403 Forbidden` and I can't find a solution so it will stay on Github for now.
 
 
 
