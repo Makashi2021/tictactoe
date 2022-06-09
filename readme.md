@@ -4,9 +4,11 @@
 ## How to install
 To install with GitHub:
 
-	`npm i github:MakashiDev/tictactoe`
+	npm i github:MakashiDev/tictactoe
 To install with npm:
-	`npm i crazytictactoe`
+	```
+	npm i github:MakashiDev/tictactoe
+	```
 
 
 
@@ -22,4 +24,4 @@ With this module you can easily setup a Tic Tac Toe game!
 
 
 
-dfds
+
