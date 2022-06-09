@@ -6,9 +6,9 @@ To install with GitHub:
 
 	npm i github:MakashiDev/tictactoe
 To install with npm:
-	```
+	
 	npm i github:MakashiDev/tictactoe
-	```
+	
 
 
 
