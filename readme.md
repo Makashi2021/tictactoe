@@ -4,9 +4,9 @@
 ## How to install
 To install with GitHub:
 
-	npm i github:MakashiDev/tictactoe
-**HELP**
-	I can't figure how to publish it on npm, i keep on getting error `error 403 403 Forbidden` and I can't find a solution so it will stay on Github for now.
+	`npm i github:MakashiDev/tictactoe`
+To install with npm:
+	`npm i crazytictactoe`
 
 
 
